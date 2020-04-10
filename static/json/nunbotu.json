@@ -1,0 +1,13 @@
+{
+    "status": 0,
+    "message": [
+       {
+            "url": "0",
+            "img": "static/images/lunbo1.jpg"
+        },
+        {
+           "url": "1",
+           "img": "static/images/lunbo2.jpg"
+        }
+    ]
+}

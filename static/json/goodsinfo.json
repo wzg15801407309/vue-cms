@@ -1,0 +1,14 @@
+{
+    "status": 0,
+    "message": [
+       {
+           "id":1,
+           "title": "商品详情",
+           "add_time":"2018-08-03",
+           "goods_on":"WEG15801407309",
+           "sell_price":1993,
+           "market_price":2499,
+           "stock_quantity":60
+       }
+    ]
+}

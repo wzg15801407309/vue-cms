@@ -1,0 +1,35 @@
+{
+    "status": 0,
+    "message": [
+       {
+            "title": "动物",
+            "id": 1,
+            "img-url":"/static/images/animation/p-ani-1.jpeg"
+        },
+        {
+            "title": "动物",
+            "id": 2,
+            "img-url":"/static/images/animation/p-ani-2.jpeg"
+        },
+        {
+            "title": "动物",
+            "id": 3,
+            "img-url":"/static/images/animation/p-ani-3.jpeg"
+        } ,
+        {
+            "title": "动物",
+            "id": 4,
+            "img-url":"/static/images/animation/p-ani-4.jpeg"
+        },
+        {
+            "title": "动物",
+            "id": 5,
+            "img-url":"/static/images/animation/p-ani-5.jpeg"
+        },
+        {
+            "title": "动物",
+            "id": 6,
+            "img-url":"/static/images/animation/p-ani-6.jpeg"
+        }
+    ]
+}

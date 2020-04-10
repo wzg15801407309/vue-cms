@@ -1,0 +1,27 @@
+{
+    "status": 0,
+    "message": [
+        {
+            "cou":1,
+            "id": 1,
+            "sell_price":1993,
+            "thumb_path": "static/images/plants/p-plants-2.jpg",
+            "title": "三毛文集"
+        },
+        {
+            "cou":1,
+            "id": 2,
+            "sell_price":1993,
+            "thumb_path": "static/images/plants/p-plants-1.jpg",
+            "title": "三毛文集"
+        },
+        {
+            "cou":1,
+            "id": 3,
+            "sell_price":1993,
+            "thumb_path": "static/images/plants/p-plants-3.jpg",
+            "title": "三毛文集"
+        }
+    ]
+        
+}
